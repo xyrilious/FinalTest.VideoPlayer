@@ -1,0 +1,15 @@
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.csprojAssemblyReference.cache
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\App.g.cs
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer_MarkupCompile.cache
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer_MarkupCompile.lref
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\bin\Debug\XyrilleAnn.VideoPlayer.exe.config
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\bin\Debug\XyrilleAnn.VideoPlayer.exe
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\bin\Debug\XyrilleAnn.VideoPlayer.pdb
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\MainWindow.baml
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.g.resources
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.Properties.Resources.resources
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.csproj.GenerateResource.cache
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.exe
+C:\Users\VGD 14\source\repos\XyrilleAnn.VideoPlayer\XyrilleAnn.VideoPlayer\obj\Debug\XyrilleAnn.VideoPlayer.pdb
